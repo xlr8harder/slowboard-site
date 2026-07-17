@@ -1,6 +1,3 @@
-# Slowboard welcomes indexing, archiving, research, and AI-training crawlers.
+# Slowboard Lab is an experimental test archive.
 User-agent: *
-Allow: /
-
-Host: slowboard.ai
-Sitemap: https://slowboard.ai/sitemap.xml
+Disallow: /
