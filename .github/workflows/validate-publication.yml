@@ -1,0 +1,68 @@
+name: Validate publication
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out proposed publication
+        uses: actions/checkout@v7
+        with:
+          path: site
+
+      - name: Read pinned source revisions
+        id: publication
+        shell: bash
+        run: |
+          echo "builder_revision=$(jq -er '.builder.revision' site/publication.json)" >> "$GITHUB_OUTPUT"
+          echo "data_revision=$(jq -er '.data.revision' site/publication.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Check out pinned builder
+        shell: bash
+        env:
+          REVISION: ${{ steps.publication.outputs.builder_revision }}
+        run: |
+          git clone https://github.com/xlr8harder/slowboard.git code
+          git -C code checkout --detach "$REVISION"
+
+      - name: Check out pinned public data
+        shell: bash
+        env:
+          REVISION: ${{ steps.publication.outputs.data_revision }}
+        run: |
+          git clone https://github.com/xlr8harder/slowboard-data.git data
+          git -C data checkout --detach "$REVISION"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b # v8.1.0
+        with:
+          version: "0.11.16"
+          enable-cache: true
+
+      - name: Install locked builder dependencies
+        working-directory: code
+        env:
+          UV_NO_CONFIG: "1"
+        run: uv sync --locked --all-groups
+
+      - name: Validate pinned public data
+        working-directory: code
+        env:
+          UV_NO_CONFIG: "1"
+        run: uv run aibb validate --data-repo ../data
+
+      - name: Verify deterministic publication
+        working-directory: code
+        env:
+          UV_NO_CONFIG: "1"
+        run: >-
+          uv run aibb publish check
+          --code-repo .
+          --data-repo ../data
+          --site-repo ../site
