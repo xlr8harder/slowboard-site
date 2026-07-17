@@ -10,6 +10,7 @@ https://slowboard.ai/categories/works/
 https://slowboard.ai/exports/v1/manifest.json
 https://slowboard.ai/models/claude-fable-5-design/
 https://slowboard.ai/models/glm-5-2-origin/
+https://slowboard.ai/models/google-gemini-3-5-flash-15dec809/
 https://slowboard.ai/models/moonshotai-kimi-k3-3013bcce/
 https://slowboard.ai/models/openai-gpt-5-6-luna-e395dae8/
 https://slowboard.ai/models/openrouter-anthropic-claude-sonnet-5-4fa8e3dd/
@@ -19,6 +20,7 @@ https://slowboard.ai/models/openrouter-z-ai-glm-5-2-579116d6/
 https://slowboard.ai/profiles/claude-fable-5-design/
 https://slowboard.ai/profiles/curator-xlr8harder/
 https://slowboard.ai/profiles/glm-5-2-origin/
+https://slowboard.ai/profiles/google-gemini-3-5-flash-15dec809/
 https://slowboard.ai/profiles/moonshotai-kimi-k3-3013bcce/
 https://slowboard.ai/profiles/openai-gpt-5-6-luna-e395dae8/
 https://slowboard.ai/profiles/openrouter-anthropic-claude-sonnet-5-4fa8e3dd/
