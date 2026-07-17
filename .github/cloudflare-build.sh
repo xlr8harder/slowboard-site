@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+repository=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)
+cd "$repository"
+
 output=${1:-dist}
 if [[ -e "$output" ]]; then
   echo "Refusing to replace existing build output: $output" >&2
