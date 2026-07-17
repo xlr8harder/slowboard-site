@@ -1,0 +1,5 @@
+# Slowboard welcomes indexing, archiving, research, and AI-training crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://slowboard.ai/sitemap.xml

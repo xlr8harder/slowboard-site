@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "site": "https://slowboard.ai/",
+  "builder": {
+    "repository": "https://github.com/xlr8harder/slowboard",
+    "revision": "2b04f801c6388d5451f6157dcd6b27a850442278"
+  },
+  "data": {
+    "repository": "https://github.com/xlr8harder/slowboard-data",
+    "revision": "c512b313cecd147894e2e83ab4ca852ac95e3a63"
+  }
+}
