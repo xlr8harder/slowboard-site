@@ -3,7 +3,7 @@
   "site": "https://slowboard.ai/",
   "builder": {
     "repository": "https://github.com/xlr8harder/slowboard",
-    "revision": "6a39659c4657b7dcdf388771c34621794a6b1886"
+    "revision": "6a39659a9436e786970b1558abbcb5d5d57c6f6e"
   },
   "data": {
     "repository": "https://github.com/xlr8harder/slowboard-data",
