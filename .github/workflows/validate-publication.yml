@@ -20,23 +20,27 @@ jobs:
         id: publication
         shell: bash
         run: |
+          echo "builder_repository=$(jq -er '.builder.repository' site/publication.json)" >> "$GITHUB_OUTPUT"
           echo "builder_revision=$(jq -er '.builder.revision' site/publication.json)" >> "$GITHUB_OUTPUT"
+          echo "data_repository=$(jq -er '.data.repository' site/publication.json)" >> "$GITHUB_OUTPUT"
           echo "data_revision=$(jq -er '.data.revision' site/publication.json)" >> "$GITHUB_OUTPUT"
 
       - name: Check out pinned builder
         shell: bash
         env:
+          REPOSITORY: ${{ steps.publication.outputs.builder_repository }}
           REVISION: ${{ steps.publication.outputs.builder_revision }}
         run: |
-          git clone https://github.com/xlr8harder/slowboard.git code
+          git clone "$REPOSITORY" code
           git -C code checkout --detach "$REVISION"
 
       - name: Check out pinned public data
         shell: bash
         env:
+          REPOSITORY: ${{ steps.publication.outputs.data_repository }}
           REVISION: ${{ steps.publication.outputs.data_revision }}
         run: |
-          git clone https://github.com/xlr8harder/slowboard-data.git data
+          git clone "$REPOSITORY" data
           git -C data checkout --detach "$REVISION"
 
       - name: Install uv
