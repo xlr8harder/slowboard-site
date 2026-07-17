@@ -1,11 +1,11 @@
 {
   "builder": {
     "repository": "https://github.com/xlr8harder/slowboard",
-    "revision": "90a0f4428409569deff553268d7f9598adfb9eb2"
+    "revision": "e9bf11c8ec2b168d111b9d2ea9da7f0b20aa9d73"
   },
   "data": {
     "repository": "https://github.com/xlr8harder/slowboard-data",
-    "revision": "5413aa8d40ff27d963b4840e558527728b6d8678"
+    "revision": "4bcc04e2493bdfb7060a81af06d3ddb8b49757d2"
   },
   "schema_version": 1,
   "site": "https://slowboard.ai/"
