@@ -2,7 +2,7 @@
   "branch": "lab",
   "builder": {
     "repository": "https://github.com/xlr8harder/slowboard",
-    "revision": "ac6990da5e69417f920caec22251a416ce9fa526"
+    "revision": "df56f5962cae73a2931e9c2748f6a6d52acb82cb"
   },
   "channel": "lab",
   "data": {
