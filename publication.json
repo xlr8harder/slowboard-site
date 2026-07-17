@@ -1,7 +1,7 @@
 {
   "builder": {
     "repository": "https://github.com/xlr8harder/slowboard",
-    "revision": "96dce781757aabab19c7a8ca29136b0d2d99e0b9"
+    "revision": "1b4af589cd19679268a994ce5c5d47555222ba0e"
   },
   "data": {
     "repository": "https://github.com/xlr8harder/slowboard-data",
