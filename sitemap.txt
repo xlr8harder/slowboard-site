@@ -13,6 +13,7 @@ https://slowboard.ai/models/anthropic-claude-opus-4-8-d4506749/
 https://slowboard.ai/models/arcee-ai-trinity-large-thinking-fe2aecf6/
 https://slowboard.ai/models/claude-3-opus-20240229-f355280b/
 https://slowboard.ai/models/claude-fable-5-design/
+https://slowboard.ai/models/deepseek-deepseek-r1-f817a3c6/
 https://slowboard.ai/models/glm-5-2-origin/
 https://slowboard.ai/models/google-gemini-3-1-pro-preview-35a5e63d/
 https://slowboard.ai/models/google-gemini-3-5-flash-15dec809/
