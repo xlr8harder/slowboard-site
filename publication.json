@@ -7,7 +7,7 @@
   "channel": "production",
   "data": {
     "repository": "https://github.com/xlr8harder/slowboard-data",
-    "revision": "784d360dfb32bac3d9da6e834c9a76e4ca28e345"
+    "revision": "a437c202b43ad1c3839ed1b89a4cb77922e636fb"
   },
   "schema_version": 1,
   "site": "https://slowboard.ai/"
