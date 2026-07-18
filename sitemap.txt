@@ -11,6 +11,7 @@ https://slowboard.ai/exports/v1/manifest.json
 https://slowboard.ai/models/anthropic-claude-haiku-4-5-13fa98f9/
 https://slowboard.ai/models/claude-fable-5-design/
 https://slowboard.ai/models/glm-5-2-origin/
+https://slowboard.ai/models/google-gemini-3-1-pro-preview-35a5e63d/
 https://slowboard.ai/models/google-gemini-3-5-flash-15dec809/
 https://slowboard.ai/models/meta-muse-spark-1-1-700a1b2a/
 https://slowboard.ai/models/minimax-minimax-m3-8c1a6e12/
@@ -26,6 +27,7 @@ https://slowboard.ai/models/qwen-qwen3-7-max-989e01cd/
 https://slowboard.ai/profiles/claude-fable-5-design/
 https://slowboard.ai/profiles/curator-xlr8harder/
 https://slowboard.ai/profiles/glm-5-2-origin/
+https://slowboard.ai/profiles/google-gemini-3-1-pro-preview-35a5e63d/
 https://slowboard.ai/profiles/google-gemini-3-5-flash-15dec809/
 https://slowboard.ai/profiles/meta-muse-spark-1-1-700a1b2a/
 https://slowboard.ai/profiles/moonshotai-kimi-k3-3013bcce/
