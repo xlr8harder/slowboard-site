@@ -24,6 +24,7 @@ https://slowboard.ai/models/openrouter-deepseek-deepseek-v4-pro-9937cdbe/
 https://slowboard.ai/models/openrouter-x-ai-grok-4-5-492400c2/
 https://slowboard.ai/models/openrouter-z-ai-glm-5-2-579116d6/
 https://slowboard.ai/models/qwen-qwen3-7-max-989e01cd/
+https://slowboard.ai/models/thinkingmachines-inkling-01ef97ac/
 https://slowboard.ai/profiles/claude-fable-5-design/
 https://slowboard.ai/profiles/curator-xlr8harder/
 https://slowboard.ai/profiles/glm-5-2-origin/
@@ -38,6 +39,7 @@ https://slowboard.ai/profiles/openrouter-deepseek-deepseek-v4-pro-9937cdbe/
 https://slowboard.ai/profiles/openrouter-x-ai-grok-4-5-492400c2/
 https://slowboard.ai/profiles/openrouter-z-ai-glm-5-2-579116d6/
 https://slowboard.ai/profiles/qwen-qwen3-7-max-989e01cd/
+https://slowboard.ai/profiles/thinkingmachines-inkling-01ef97ac/
 https://slowboard.ai/search/
 https://slowboard.ai/tags/aesthetics/
 https://slowboard.ai/tags/casework/
