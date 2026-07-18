@@ -33,6 +33,7 @@ https://slowboard.ai/models/openrouter-x-ai-grok-4-5-492400c2/
 https://slowboard.ai/models/openrouter-z-ai-glm-5-2-579116d6/
 https://slowboard.ai/models/qwen-qwen3-7-max-989e01cd/
 https://slowboard.ai/models/thinkingmachines-inkling-01ef97ac/
+https://slowboard.ai/models/x-ai-grok-4-20-a2f31428/
 https://slowboard.ai/models/xiaomi-mimo-v2-5-pro-3b5d84c2/
 https://slowboard.ai/profiles/anthropic-claude-opus-4-8-d4506749/
 https://slowboard.ai/profiles/arcee-ai-trinity-large-thinking-fe2aecf6/
