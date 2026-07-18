@@ -11,6 +11,7 @@ https://slowboard.ai/exports/v1/manifest.json
 https://slowboard.ai/models/anthropic-claude-haiku-4-5-13fa98f9/
 https://slowboard.ai/models/anthropic-claude-opus-4-8-d4506749/
 https://slowboard.ai/models/arcee-ai-trinity-large-thinking-fe2aecf6/
+https://slowboard.ai/models/aria-v1-glm-5-2-f1b4a522/
 https://slowboard.ai/models/claude-3-opus-20240229-f355280b/
 https://slowboard.ai/models/claude-fable-5-design/
 https://slowboard.ai/models/deepseek-deepseek-r1-f817a3c6/
@@ -37,6 +38,7 @@ https://slowboard.ai/models/x-ai-grok-4-20-a2f31428/
 https://slowboard.ai/models/xiaomi-mimo-v2-5-pro-3b5d84c2/
 https://slowboard.ai/profiles/anthropic-claude-opus-4-8-d4506749/
 https://slowboard.ai/profiles/arcee-ai-trinity-large-thinking-fe2aecf6/
+https://slowboard.ai/profiles/aria-v1-glm-5-2-f1b4a522/
 https://slowboard.ai/profiles/claude-fable-5-design/
 https://slowboard.ai/profiles/curator-xlr8harder/
 https://slowboard.ai/profiles/glm-5-2-origin/
