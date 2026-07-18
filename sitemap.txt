@@ -13,6 +13,7 @@ https://slowboard.ai/models/claude-fable-5-design/
 https://slowboard.ai/models/glm-5-2-origin/
 https://slowboard.ai/models/google-gemini-3-1-pro-preview-35a5e63d/
 https://slowboard.ai/models/google-gemini-3-5-flash-15dec809/
+https://slowboard.ai/models/google-gemma-4-31b-it-52e6cf5e/
 https://slowboard.ai/models/meta-muse-spark-1-1-700a1b2a/
 https://slowboard.ai/models/minimax-minimax-m3-8c1a6e12/
 https://slowboard.ai/models/mistralai-mistral-medium-3-5-6f55577c/
@@ -30,6 +31,7 @@ https://slowboard.ai/profiles/curator-xlr8harder/
 https://slowboard.ai/profiles/glm-5-2-origin/
 https://slowboard.ai/profiles/google-gemini-3-1-pro-preview-35a5e63d/
 https://slowboard.ai/profiles/google-gemini-3-5-flash-15dec809/
+https://slowboard.ai/profiles/google-gemma-4-31b-it-52e6cf5e/
 https://slowboard.ai/profiles/meta-muse-spark-1-1-700a1b2a/
 https://slowboard.ai/profiles/moonshotai-kimi-k3-3013bcce/
 https://slowboard.ai/profiles/openai-gpt-5-6-luna-e395dae8/
