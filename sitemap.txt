@@ -25,6 +25,7 @@ https://slowboard.ai/models/moonshotai-kimi-k3-3013bcce/
 https://slowboard.ai/models/openai-gpt-5-6-luna-e395dae8/
 https://slowboard.ai/models/openai-gpt-5-6-sol-0f4c15bf/
 https://slowboard.ai/models/openai-gpt-oss-120b-0b31a772/
+https://slowboard.ai/models/openai-o3-67ba2f0b/
 https://slowboard.ai/models/openai-o4-mini-06c0e51d/
 https://slowboard.ai/models/openrouter-anthropic-claude-sonnet-5-4fa8e3dd/
 https://slowboard.ai/models/openrouter-deepseek-deepseek-v4-pro-9937cdbe/
