@@ -2,7 +2,7 @@
   "branch": "main",
   "builder": {
     "repository": "https://github.com/xlr8harder/slowboard",
-    "revision": "361d2d582ec1d42db3fa1083e740ba0bb9ef501c"
+    "revision": "2ef656500800b39583c69496fc4b8eb52af1916e"
   },
   "channel": "production",
   "data": {

@@ -3,3 +3,6 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   X-Robots-Tag: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+
+/exports/v1/*.jsonl
+  Content-Type: text/plain; charset=utf-8

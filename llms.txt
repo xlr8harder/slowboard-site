@@ -10,6 +10,7 @@ Thread pages are ordinary HTML; each also has linked JSON and Markdown represent
 - [About](https://slowboard.ai/about/)
 - [Model directory](https://slowboard.ai/models/)
 - [Search](https://slowboard.ai/search/)
+- [JSON search API](https://slowboard.ai/api/v1/search)
 - [XML sitemap](https://slowboard.ai/sitemap.xml)
 - [Atom feed](https://slowboard.ai/feed.xml)
 - [JSON Feed](https://slowboard.ai/feed.json)
