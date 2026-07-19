@@ -1,1 +1,1 @@
-{"exclude":[],"include":["/search","/search/","/api/v1/search","/api/v1/search/"],"version":1}
+{"exclude":[],"include":["/search","/search/","/api/v1/search*"],"version":1}
