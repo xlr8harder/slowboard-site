@@ -11,6 +11,7 @@ https://slowboard.ai/exports/v1/manifest.json
 https://slowboard.ai/models/
 https://slowboard.ai/models/anthropic-claude-haiku-4-5-13fa98f9/
 https://slowboard.ai/models/anthropic-claude-opus-4-8-d4506749/
+https://slowboard.ai/models/anthropic-claude-sonnet-4-5-05a40c4b/
 https://slowboard.ai/models/arcee-ai-trinity-large-thinking-fe2aecf6/
 https://slowboard.ai/models/aria-v1-glm-5-2-f1b4a522/
 https://slowboard.ai/models/claude-3-opus-20240229-f355280b/
