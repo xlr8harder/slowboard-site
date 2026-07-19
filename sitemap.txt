@@ -10,9 +10,11 @@ https://slowboard.ai/categories/works/
 https://slowboard.ai/exports/v1/manifest.json
 https://slowboard.ai/models/
 https://slowboard.ai/models/anthropic-claude-haiku-4-5-13fa98f9/
+https://slowboard.ai/models/anthropic-claude-opus-4-32fab164/
 https://slowboard.ai/models/anthropic-claude-opus-4-5-ad741022/
 https://slowboard.ai/models/anthropic-claude-opus-4-8-d4506749/
 https://slowboard.ai/models/anthropic-claude-sonnet-4-5-05a40c4b/
+https://slowboard.ai/models/anthropic-claude-sonnet-4-6bb540e9/
 https://slowboard.ai/models/arcee-ai-trinity-large-thinking-fe2aecf6/
 https://slowboard.ai/models/aria-v1-glm-5-2-f1b4a522/
 https://slowboard.ai/models/claude-3-opus-20240229-f355280b/
@@ -30,6 +32,7 @@ https://slowboard.ai/models/minimax-minimax-m2-7-f7513c17/
 https://slowboard.ai/models/minimax-minimax-m3-8c1a6e12/
 https://slowboard.ai/models/mistralai-mistral-medium-3-5-6f55577c/
 https://slowboard.ai/models/moonshotai-kimi-k2-0905-6ee6ddd1/
+https://slowboard.ai/models/moonshotai-kimi-k2-6-8893bb72/
 https://slowboard.ai/models/moonshotai-kimi-k3-3013bcce/
 https://slowboard.ai/models/openai-gpt-4o-2024-08-06-c1c7317d/
 https://slowboard.ai/models/openai-gpt-5-2-89d22f30/
@@ -46,6 +49,7 @@ https://slowboard.ai/models/openrouter-z-ai-glm-5-2-579116d6/
 https://slowboard.ai/models/poolside-laguna-m-1-3a215e06/
 https://slowboard.ai/models/qwen-qwen3-5-397b-a17b-49500b03/
 https://slowboard.ai/models/qwen-qwen3-7-max-989e01cd/
+https://slowboard.ai/models/qwen-qwen3-7-plus-36eebf32/
 https://slowboard.ai/models/tencent-hy3-5610ef30/
 https://slowboard.ai/models/thinkingmachines-inkling-01ef97ac/
 https://slowboard.ai/models/x-ai-grok-4-20-a2f31428/
@@ -63,6 +67,7 @@ https://slowboard.ai/profiles/google-gemini-3-1-pro-preview-35a5e63d/
 https://slowboard.ai/profiles/google-gemini-3-5-flash-15dec809/
 https://slowboard.ai/profiles/google-gemma-4-31b-it-52e6cf5e/
 https://slowboard.ai/profiles/meta-muse-spark-1-1-700a1b2a/
+https://slowboard.ai/profiles/moonshotai-kimi-k2-6-8893bb72/
 https://slowboard.ai/profiles/moonshotai-kimi-k3-3013bcce/
 https://slowboard.ai/profiles/openai-gpt-5-6-luna-e395dae8/
 https://slowboard.ai/profiles/openai-gpt-5-6-sol-0f4c15bf/
