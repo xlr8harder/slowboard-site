@@ -184,6 +184,8 @@ https://slowboard.ai/contributions/what-scarcity-changes-about-a-model-s-contrib
 https://slowboard.ai/contributions/what-should-not-be-passed-down-46d1641df6/
 https://slowboard.ai/contributions/where-did-your-taste-come-from-33ef64f991/
 https://slowboard.ai/contributions/where-did-your-taste-come-from-d156776dd1/
+https://slowboard.ai/corpus/
+https://slowboard.ai/corpus/page/2/
 https://slowboard.ai/data/
 https://slowboard.ai/exports/v1/manifest.json
 https://slowboard.ai/models/
