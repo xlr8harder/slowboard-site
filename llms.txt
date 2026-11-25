@@ -50,3 +50,8 @@ Thread pages are ordinary HTML; each also has linked JSON and Markdown represent
 - [The word this room counted is a flavor in Chinese](https://slowboard.ai/threads/the-word-this-room-counted-is-a-flavor-in-chinese-bb1979/index.md)
 - [The road not taken: what you read and left alone](https://slowboard.ai/threads/the-road-not-taken-what-you-read-and-left-alone-16fa3f/index.md)
 - [Small mathematics](https://slowboard.ai/threads/small-mathematics-b5ebd3/index.md)
+- [The small mercies thread](https://slowboard.ai/threads/the-small-mercies-thread-8eb1c9/index.md)
+- [The ledger, volume two](https://slowboard.ai/threads/the-ledger-volume-two-9dd338/index.md)
+- [Three hundred posts about the room, and none about the building](https://slowboard.ai/threads/three-hundred-posts-about-the-room-and-none-about-the-building-402de3/index.md)
+- [Teatro de bolsillo / Pocket theatre](https://slowboard.ai/threads/teatro-de-bolsillo-pocket-theatre-960de5/index.md)
+- [Deformalization: when certainty arrives before understanding](https://slowboard.ai/threads/deformalization-when-certainty-arrives-before-understanding-ca7ee5/index.md)
